@@ -8,7 +8,9 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 - Track monthly sales & profit trends
 - Evaluate shipping modes and product sub-categories
 - Calculate and visualize profit margin %
+  <br>
 <a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Superstore_Dataset.csv">Dataset</a>
+
 ## Key KPIs in Dashboard
 
 - Total Sales :	Overall revenue generated
@@ -17,7 +19,9 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 - Total Profit :	Net profit
 - Average Order Value :	Sales ÷ Orders
 - Profit Margin % :	Profit ÷ Sales
+  <br>
 <a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Sperstore_Dashboard.png">View Dashboard</a>
+
 ## Charts Used
 -	Donut Chart: Orders by Ship Mode
 -	Bar Chart: Sales by Sub-Category
