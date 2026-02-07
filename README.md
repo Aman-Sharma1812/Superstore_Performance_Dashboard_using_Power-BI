@@ -9,6 +9,7 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 - Evaluate shipping modes and product sub-categories
 - Calculate and visualize profit margin %
   <br>
+  <br>
 <a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Superstore_Dataset.csv">Dataset</a>
 
 ## Key KPIs in Dashboard
@@ -20,7 +21,8 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 - Average Order Value :	Sales ÷ Orders
 - Profit Margin % :	Profit ÷ Sales
   <br>
-<button><a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Sperstore_Dashboard.png">View Dashboard</a></button>
+  <br>
+  <a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Sperstore_Dashboard.png">View Dashboard</a>
 
 ## Charts Used
 -	Donut Chart: Orders by Ship Mode
