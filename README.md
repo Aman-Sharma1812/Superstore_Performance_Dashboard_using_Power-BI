@@ -20,7 +20,7 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 - Average Order Value :	Sales ÷ Orders
 - Profit Margin % :	Profit ÷ Sales
   <br>
-<a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Sperstore_Dashboard.png">View Dashboard</a>
+<button><a href="https://github.com/Aman-Sharma1812/Superstore_Performance_Dashboard_using_Power-BI/blob/main/Sperstore_Dashboard.png">View Dashboard</a></button>
 
 ## Charts Used
 -	Donut Chart: Orders by Ship Mode
@@ -38,5 +38,5 @@ Interactive Power BI dashboard analyzing sales, profit, customers, and regional 
 -	Overall profit margin is ~12.5%, which is healthy but improvable
 
 ## If You Like This Project
-- Don’t forget to star ⭐ the repository and share your feedback!
+- Don’t forget to star ⭐ this repository and share your feedback!
 
